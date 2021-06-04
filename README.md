@@ -15,4 +15,4 @@ Step 5: Multiply the genres with the user profile and then take the weighted ave
 
 Step 6: Give Recommendations of top 20 movies from dataset that match user's preferences the most!
 
-This model works on simple dot product of genre and ratings of movies, I am still working on it to implement it using Pearson Correlation and K Nearest Neighbors(Cosine Similarity) for better accuracy of recommendation.
+This model works on simple dot product of genre and ratings of movies, I am still working on it to implement this using Pearson Correlation and K Nearest Neighbors(Cosine Similarity) for better accuracy of recommendations!
